@@ -1,0 +1,22 @@
+body {
+    background-color: #EDE9D5;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.myBorder {
+    border-top: solid 2px;
+}
+
+.myColor {
+    background-color: #EDE9D5;
+}
+
+#myVideo {
+    width: 100%;
+    opacity: 0.4;
+}
