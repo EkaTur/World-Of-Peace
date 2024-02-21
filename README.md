@@ -4,18 +4,12 @@ Welcome to World Of Peace! Discover your perfect spa with us.
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contacts](#contacts)
 - [Contributing](#contributing)
 
 ## About the Project
 WOP is a peacful and calm spa place offering a wide selection of massage(body and face) and hamam. Something special waiting for you here. Our atmosphere and treats bring peaxe in your life.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/World-Of-Peace.git
 
 ## Usage
 1. Open index.html in your web browser.
