@@ -2,6 +2,10 @@
 
 Welcome to World Of Peace! Discover your perfect spa with us.
 
+## Live Demo
+
+You can check out the live version of this website [here](https://world-of-peace.netlify.app/).
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Usage](#usage)
